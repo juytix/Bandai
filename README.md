@@ -23,6 +23,6 @@
 
 ![2024-11-30_10-36-41](https://github.com/user-attachments/assets/b6373ae5-638c-454c-be69-4ad132324876)
 
-# Система тестирования
+# Прохождение тестирования
 
 ![2024-11-30_13-06-54](https://github.com/user-attachments/assets/22337e63-7a39-4565-a00a-d6921480552b)
